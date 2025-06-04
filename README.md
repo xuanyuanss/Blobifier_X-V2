@@ -35,4 +35,4 @@
 ## 安装说明请看图示，其他调试说明参照V1版本。
 ![装配图示](图片/6.png)
 
-[V1版本链接](https://github.com/xuanyuanss/Blobifier_X)
+# [V1版本链接](https://github.com/xuanyuanss/Blobifier_X)
